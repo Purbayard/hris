@@ -20,8 +20,8 @@ project ini merupakan HRIS (Human Resource Information System) dibangun mengguna
 ## Screenshot
 
 ![dashboard](img/dashboard.png)
-![employee](img/employee.png.png)
-![alt text](img/position.png.png)
+![employee](img/employee.png)
+![alt text](img/position.png)
 
 ## About Laravel
 
